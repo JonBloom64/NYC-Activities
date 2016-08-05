@@ -1,0 +1,18 @@
+.awesomered-text {
+	color: red;
+}
+
+.berryblue {
+	color:blue;
+}
+
+.awesomered-bg{
+	background-color:red;
+	border: 10px solid blue;
+	opacity: .5;
+}
+
+.awesomered-bg:hover{
+	background-color:red;
+	opacity:1;
+}
