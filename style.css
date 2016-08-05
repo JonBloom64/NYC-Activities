@@ -16,3 +16,27 @@
 	background-color:red;
 	opacity:1;
 }
+
+.resize{
+	width: 1000px;
+	height: 650px;
+	position: relative;
+}
+
+.bluebackground{
+	background-color: b3d9ff
+}
+
+.deeporange{
+	color:  #ff6600;
+}
+
+.listpicsize{
+	width: 600px;
+	height: 600px;
+	position: relative;
+}
+
+.textpos {
+    position:absolute;
+}
